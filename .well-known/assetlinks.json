@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.anherty570_bot.tasharpen",
+        "sha256_cert_fingerprints": ["35:DB:DE:DE:A1:E7:39:90:A5:04:FA:36:3D:48:94:AC:2A:12:0A:40:6F:13:A7:E3:03:F5:2E:DC:0D:98:BF:1F"]
+      }
+    }]
